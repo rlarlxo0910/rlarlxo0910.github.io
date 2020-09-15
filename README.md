@@ -1,4 +1,3 @@
-# rlarlxo0910.github.io
 <html>
    <head>
       <title>Apple</title>
