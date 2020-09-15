@@ -1,6 +1,5 @@
 <html>
    <head>
-      <title>Apple</title>
       <header>guide</header>
    </head>
    <body>
