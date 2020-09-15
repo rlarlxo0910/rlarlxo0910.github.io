@@ -45,7 +45,3 @@
       <a href = "https://us02web.zoom.us/j/2978909392?pwd=NkFUNEVOemdmdUF6MktsOElVZmltUT09">영어 김정규</a><!--영어(김정규 쌤) 줌 수업-->
       <a href = "https://hoc36.ebssw.kr/hsca1/hmpg/hmpgAlctcrListView.do?menuSn=383002">5,6교시 창체</a><!--창체 수업-->   
       <p><a href = "https://hoc36.ebssw.kr/career1953/hmpg/hmpgAlctcrListView.do?menuSn=382817">진로 온클</a><!--진로 온클-->  
-           <br>
-      <img src = "KakaoTalk_Moim_9XGACeSCIjToeb49HGjDuDwjlDbvzk.png">
-    </body>
-</html>
