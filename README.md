@@ -1,6 +1,6 @@
 <html>
    <head>
-      <header>guide</header>
+      <header>옆에 순서대로 1교시부터 7교시 까지</header>
    </head>
    <body>
       <h2>효성고등학교 1-7</h2>
@@ -45,3 +45,5 @@
       <a href = "https://us02web.zoom.us/j/2978909392?pwd=NkFUNEVOemdmdUF6MktsOElVZmltUT09">영어 김정규</a><!--영어(김정규 쌤) 줌 수업-->
       <a href = "https://hoc36.ebssw.kr/hsca1/hmpg/hmpgAlctcrListView.do?menuSn=383002">5,6교시 창체</a><!--창체 수업-->   
       <p><a href = "https://hoc36.ebssw.kr/career1953/hmpg/hmpgAlctcrListView.do?menuSn=382817">진로 온클</a><!--진로 온클-->  
+         <br>
+       <a href = "https://hyosung.riroschool.kr/">효성 리로스쿨</a><!--효성고 리로스쿨-->
