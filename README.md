@@ -51,8 +51,5 @@
          <a href = "http://hyosung.hs.kr/index.php">효성고 홈페이지</a><!--효성고-->
       <br>
          <image src = "https://user-images.githubusercontent.com/71313210/93281527-3b34d880-f807-11ea-9bfa-29c80de4d8c2.png">
-            </body>
-      </html>
-   
-      
+       
 
