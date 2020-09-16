@@ -48,8 +48,11 @@
          ;
       <h5>학교 참조 홈페이지</h5>
          <a href = "https://hyosung.riroschool.kr/">효성 리로스쿨</a><!--효성고 리로스쿨-->
-         <a href = "https://hyosung.hs.kr/">효성고 홈페이지</a><!--효성고-->
+         <a href = "http://hyosung.hs.kr/index.php">효성고 홈페이지</a><!--효성고-->
       <br>
-         <image src="https://user-images.githubusercontent.com/71313210/93281527-3b34d880-f807-11ea-9bfa-29c80de4d8c2.png",width="200">
+         <image src="https://user-images.githubusercontent.com/71313210/93281527-3b34d880-f807-11ea-9bfa-29c80de4d8c2.png", width="200">
+            </body>
+      </html>
+   
       
 
