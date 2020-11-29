@@ -1,4 +1,3 @@
-<html>
    <head>
       <header>옆에 순서대로 1교시부터 7교시 까지</header>
    </head>
