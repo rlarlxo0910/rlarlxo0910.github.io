@@ -7,14 +7,14 @@
       <h4>월요일</h4>
       <a href = "">체육 탐구</a><!--체육 탐구 줌 수업-->
       <a href = "">수학1 오혜미</a><!--수학1(오혜미 쌤) 줌 수업-->
-      <a href = "">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
+      <a href = "https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">특색<!--특색 수업-->
       <a href = "https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">물리학1 김유미</a><!--물리학1(김유미 쌤) 줌 수업-->
       <a href = "">과학교양 권희진</a><!--과학교양(권희진 쌤) 줌 수업-->
       <a href = "">기하 신지현</a><!--기하(신지현 쌤) 줌 수업-->
       <h4>화요일</h4>
       <a href = "">과학교양 이승영</a><!--과학교양 줌 수업-->
-      <a href = "">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
+      <a href = "https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">기하 김병준</a><!--기하(김병준 쌤) 수업-->
       <a href = "">진로 조현?이건 시간표에 신임 이렇게 써있어서 모름</a><!--진로(조현 쌤) 줌 수업-->
       <a href = "">생명과학1 백승혁</a><!--생명과학1(백승혁 쌤) 줌 수업-->
