@@ -22,7 +22,7 @@
       <a href = "">수학1 오혜미</a><!--수학1(오혜미 쌤) 줌 수업-->
       <p><a href = "">추후 추가 예정</a><!--수학 온클--> 
       <h4>수요일</h4>
-      <a href = "">국어 장준영</a><!--국어(장준영 쌤) 줌 수업-->
+      <a href = "">화학1 이경민</a><!--화학1(이경민 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">기하 김병준</a><!--기하(김병준 쌤) 수업-->
       <a href = "https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09 ">영어1 김기완</a><!--영어1(김기완 쌤) 줌 수업-->
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">문학 김남곤</a><!--문학(김남곤 쌤) 줌 수업-->
