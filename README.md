@@ -16,7 +16,7 @@
       <a href = "">과학교양 이승영</a><!--과학교양 줌 수업-->
       <a href = "https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">기하 김병준</a><!--기하(김병준 쌤) 수업-->
-      <a href = "">진로 조현?이건 시간표에 신임 이렇게 써있어서 모름</a><!--진로(조현 쌤) 줌 수업-->
+      <a href = "https://us02web.zoom.us/j/5980025567?pwd=KzVtSm43aTBtN0hpellzd09QcVdYUT09">진로 조현</a><!--진로(조현 쌤) 줌 수업-->
       <a href = "">생명과학1 백승혁</a><!--생명과학1(백승혁 쌤) 줌 수업-->
       <a href = "">문학 김남곤</a><!--문학(김남곤 쌤) 줌 수업-->
       <a href = "">수학1 오혜미</a><!--수학1(오혜미 쌤) 줌 수업-->
