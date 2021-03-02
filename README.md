@@ -42,7 +42,7 @@
       <a href = "https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">물리학1 김유미</a><!--물리학1(김유미 쌤) 줌 수업-->
       <a href = "">수학1 박시영</a><!--수학1(박시영 쌤) 줌 수업-->
       <a href = "">화학1 이경민</a><!--1(이경민 쌤) 줌 수업-->
-      <a href = "https://hoc36.ebssw.kr/hsca1/hmpg/hmpgAlctcrListView.do?menuSn=383002">5,6교시 창체</a><!--창체 수업-->   
+      <a href = "">5,6교시 창체</a><!--창체 수업-->   
       <p><a href = "">추후 추가예정</a><!--추후 추가예정-->  
          ;
       <h5>학교 참조 홈페이지</h5>
