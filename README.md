@@ -13,7 +13,7 @@
       <a href = "">과학교양 권희진</a><!--과학교양(권희진 쌤) 줌 수업-->
       <a href = "">기하 신지현</a><!--기하(신지현 쌤) 줌 수업-->
       <h4>화요일</h4>
-      <a href = "">과학교양 이승영</a><!--과학교양 줌 수업-->
+      <a href = "https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">과학교양 이승영</a><!--과학교양(이승영 쌤) 줌 수업-->
       <a href = "https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">기하 김병준</a><!--기하(김병준 쌤) 수업-->
       <a href = "https://us02web.zoom.us/j/5980025567?pwd=KzVtSm43aTBtN0hpellzd09QcVdYUT09">진로 조현</a><!--진로(조현 쌤) 줌 수업-->
