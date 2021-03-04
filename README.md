@@ -39,7 +39,7 @@
       <a href = "https://us04web.zoom.us/j/7011986737?pwd=ZWxBRnM3ZTU1SWgwdVE5QWl5cG5QZz09">화학1 김양현</a><!--화학1(김양현 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1 오혜미</a><!--수학1(오혜미 쌤) 줌 수업-->
       <h4>금요일</h4>
-      <a href = "https://zoom.us/j/6117180017?pwd=QTJnNUF3SytDU0RVL1hrRCtqMzVGdz09">국어 박신영</a><!--국어(박신영 쌤) 줌 수업-->
+      <a href = "https://zoom.us/j/6117180017?pwd=QTJnNUF3SytDU0RVL1hrRCtqMzVGdz09">문학 박신영</a><!--문학(박신영 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">물리학1 김유미</a><!--물리학1(김유미 쌤) 줌 수업-->
       <a href = "">수학1 박시영</a><!--수학1(박시영 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/4501224672?pwd=U0k2RW5MN0s0WXMxd2JvSWFOdkNXQT09">화학1 이경민</a><!--화학1(이경민 쌤) 줌 수업-->
