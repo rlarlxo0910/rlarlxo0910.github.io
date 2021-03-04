@@ -33,7 +33,7 @@
       <a href = "https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09 ">영어1 김기완</a><!--영어1(김기완 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/5303705413?pwd=NnNwUGJOMWhPYXpCbEVEWDJZbUVmUT09">진로와 직업 강금희</a><!--진로와직업(강금희 쌤) 줌 수업-->
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">문학 김남곤</a><!--문학(김남곤 쌤) 줌 수업-->
-      <a href = "">미술창작 이지수</a><!--미술창작(이지수 쌤) 줌 수업-->
+      <a href = "https://us02web.zoom.us/j/2770224072?pwd=czVuNjB2bHRhWDU2VWhycWZKM0xyUT09">미술창작 이지수</a><!--미술창작(이지수 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">지구과학1 이승영</a><!--지구과학1(이승영 쌤) 줌 수업-->
       <a href = "">화학1 김양현</a><!--화학1(김양현 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1 오혜미</a><!--수학1(오혜미 쌤) 줌 수업-->
