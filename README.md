@@ -11,7 +11,7 @@
       <a href = "https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">특색<!--특색 수업-->
       <a href = "https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">물리학1 김유미</a><!--물리학1(김유미 쌤) 줌 수업-->
-      <a href = "">과학교양 권희진</a><!--과학교양(권희진 쌤) 줌 수업-->
+      <a href = "https://us02web.zoom.us/j/8399914024?pwd=R2I3TDNNcEZjRVRZOGFxTnZGTmhvdz09">과학교양 권희진</a><!--과학교양(권희진 쌤) 줌 수업-->
       <a href = "https://zoom.us/j/6620251058?pwd=c21Kb2tBdEkyS1JjNnZLWkIvLzBrZz09">기하 신지현</a><!--기하(신지현 쌤) 줌 수업-->
       <h4>화요일</h4>
       <a href = "https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">과학교양 이승영</a><!--과학교양(이승영 쌤) 줌 수업-->
