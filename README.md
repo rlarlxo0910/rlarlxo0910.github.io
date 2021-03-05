@@ -6,7 +6,7 @@
       <h2>효성고등학교 2-10</h2>
       <h3>시간표</h3>
       <h4>월요일</h4>
-      <a href = "">체육 탐구</a><!--체육 탐구 줌 수업-->
+      <a href = "https://us04web.zoom.us/j/6231503832?pwd=WmJCeFA1K3Q1emloMzNoZ3MwaEVnQT09">체육 탐구</a><!--체육 탐구 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1 오혜미</a><!--수학1(오혜미 쌤) 줌 수업-->
       <a href = "https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1 박보라</a><!--영어1(박보라 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">특색<!--특색 수업-->
@@ -31,7 +31,7 @@
       <a href = "https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생명과학1 백승혁</a><!--생명과학1(백승혁 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/9167725349?pwd=TW1SdXZSS1p6K2VwZ0lTSFZNY294dz09">미술창작 황현경</a><!--미술창작(황현경 쌤) 줌 수업-->
       <h4>목요일</h4>
-      <a href = "https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09 ">영어1 김기완</a><!--영어1(김기완 쌤) 줌 수업-->
+      <a href = "https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09">영어1 김기완</a><!--영어1(김기완 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/5303705413?pwd=NnNwUGJOMWhPYXpCbEVEWDJZbUVmUT09">진로와 직업 강금희</a><!--진로와직업(강금희 쌤) 줌 수업-->
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">문학 김남곤</a><!--문학(김남곤 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/2770224072?pwd=czVuNjB2bHRhWDU2VWhycWZKM0xyUT09">미술창작 이지수</a><!--미술창작(이지수 쌤) 줌 수업-->
