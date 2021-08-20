@@ -49,7 +49,7 @@
       <h5>학교 참조 홈페이지</h5>
          <a href = "https://hyosung.riroschool.kr/">효성 리로스쿨</a><!--효성고 리로스쿨-->
          <a href = "http://hyosung.hs.kr/index.php">효성고 홈페이지</a><!--효성고-->
-      <h6>과제 제출</h6>
+      <h5>과제 제출</h5>
          <a href = "https://drive.google.com/drive/folders/1E0nw3EFfzljcsj4bzJHFlmV8LTtevuEY?usp=sharing">과학교양 이승영 구글 드라이브</a><!--과학 교양 이승영-->
          <a href = "https://drive.google.com/drive/folders/1gAdqYfNIGNq9mAJGIrw5LpO4zReofbC-?usp=sharing">지구과학1 이승영 구글 드라이브</a><!--지구과학1 이승영-->
       <br>
