@@ -1,7 +1,7 @@
-# rlarlxo0910.github.io
+
   <head>
       <header>옆에 순서대로 1교시부터 7교시 까지</header>
-   </head>
+  </head>
    <body>
       <h2>효성고등학교 2-10</h2>
       <h3>시간표</h3>
@@ -52,5 +52,6 @@
       <h5>과제 제출</h5>
          <a href = "https://drive.google.com/drive/folders/1E0nw3EFfzljcsj4bzJHFlmV8LTtevuEY?usp=sharing">과학교양 이승영 구글 드라이브</a><!--과학 교양 이승영-->
          <a href = "https://drive.google.com/drive/folders/1gAdqYfNIGNq9mAJGIrw5LpO4zReofbC-?usp=sharing">지구과학1 이승영 구글 드라이브</a><!--지구과학1 이승영-->
+         <p>khj9478018@korea.kr 과학교양 권희진 이메일 주소
       <br>
          <image src = "https://user-images.githubusercontent.com/71313210/93281527-3b34d880-f807-11ea-9bfa-29c80de4d8c2.png"> 
