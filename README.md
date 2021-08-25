@@ -32,7 +32,7 @@
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">언어와 매체 김남곤</a><!--언어와 매체(김남곤 쌤) 줌 수업-->
       <h4>목요일</h4>
       <a href = "https://us02web.zoom.us/j/2971534279?pwd=LzNUdEFSdGpRRnVwQXRYdVBRdWdKZz09">수학2 박시영</a><!--수학2(박시영 쌤) 줌 수업-->
-      <a href = "https://us02web.zoom.us/j/5303705413?pwd=NnNwUGJOMWhPYXpCbEVEWDJZbUVmUT09">진로와 직업 강금희</a><!--진로와직업(강금희 쌤) 줌 수업-->
+       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">특색</a><!--특색 수업-->
       <a href = "https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">물리학1 김유미</a><!--물리학1(김유미 쌤) 줌 수업-->
       <a href = "https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생명과학1 백승혁</a><!--생명과학1(백승혁 쌤) 줌 수업-->
       <a href = "https://us04web.zoom.us/j/6231503832?pwd=WmJCeFA1K3Q1emloMzNoZ3MwaEVnQT099">과학교양 권희진</a><!--과학교양(권희진 쌤) 줌 수업-->
