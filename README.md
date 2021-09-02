@@ -9,7 +9,7 @@
       <a href = "https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학2 오혜미</a><!--수학2(오혜미 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">기하 김병준</a><!--기하(김병준 쌤) 수업-->
       <a href = "https://us02web.zoom.us/j/4501224672?pwd=U0k2RW5MN0s0WXMxd2JvSWFOdkNXQT09">화학1 이경민</a><!--화학1(이경민 쌤) 줌 수업-->
-      <a href = "https://us02web.zoom.us/j/6530979393?pwd=MGJwMVIrVURSbm1TT1dQK0V1bzFrUT09">진로<!--진로 수업-->
+      <a href = "https://us02web.zoom.us/j/6530979393?pwd=MGJwMVIrVURSbm1TT1dQK0V1bzFrUT09">진로</a><!--진로 수업-->
       <a href = "https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09 ">영어2 김기완</a><!--영어2(김기완 쌤) 줌 수업-->
       <a href = "https://us04web.zoom.us/j/6231503832?pwd=WmJCeFA1K3Q1emloMzNoZ3MwaEVnQT09">체육탐구</a><!--체육탐구 줌 수업-->
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">언어와 매체 김남곤</a><!--언어와 매체(김남곤 쌤) 줌 수업-->
