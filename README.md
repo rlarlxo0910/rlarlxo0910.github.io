@@ -1,4 +1,14 @@
-@@ -84,58 +84,58 @@ <h1 id="clock" style="color:coral; font-family:'Nanum Gothic';">00:00</h1>
+@@ -64,78 +64,78 @@
+        setInterval(clock, 1000);
+        }
+        init();
+        </script>
+        <hr>
+        <button onclick="togglelmg()">시간표</button>
+        <br>
+        <img src="" id="img1"></img>
+        <div>　</div>
+        <div style="overflow-x: auto;">
   <head>
       <header>옆에 순서대로 1교시부터 7교시 까지</header>
   </head>
