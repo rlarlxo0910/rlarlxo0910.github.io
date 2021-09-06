@@ -1,4 +1,4 @@
-
+@@ -84,58 +84,58 @@ <h1 id="clock" style="color:coral; font-family:'Nanum Gothic';">00:00</h1>
   <head>
       <header>옆에 순서대로 1교시부터 7교시 까지</header>
   </head>
