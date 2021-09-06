@@ -1,4 +1,21 @@
-   <header>옆에 순서대로 1교시부터 7교시 까지</header>
+ <script>
+        var clockTarget = document.getElementById("clock");
+        function clock() {
+            var date = new Date();
+            var day = date.getDay();
+            var week = ['일', '월', '화', '수', '목', '금', '토'];
+            var hours = date.getHours();
+            var minutes = date.getMinutes();
+            clockTarget .innerText = `${week[day]}요일 ` + 
+            `${hours < 10 ? `0${hours}` : hours}시 : ${minutes < 10 ? `0${minutes }`  : minutes }분`;
+            }
+        function init() {
+        clock();
+        setInterval(clock, 1000);
+        }
+        init();
+        </script>
+ <header>옆에 순서대로 1교시부터 7교시 까지</header>
   </head>
    <body>
       <h2>효성고등학교 2-10</h2>
