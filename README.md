@@ -1,6 +1,5 @@
 
  <header>옆에 순서대로 1교시부터 7교시 까지</header>
-  </head>
    <body>
       <h2>효성고등학교 2-10</h2>
       <h3>시간표</h3>
@@ -42,8 +41,8 @@
       <a href = "https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">과학교양 이승영</a><!--과학교양(이승영 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학2 오혜미</a><!--수학2(오혜미 쌤) 줌 수업-->
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">언어와 매체 김남곤</a><!--언어와 매체(김남곤 쌤) 줌 수업-->
-      <a href = "">5,6교시 창체</a><!--창체 수업-->   
-      <p><a href = "">추후 추가 예정</a><!--추후 추가 예정-->  
+      <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">5,6교시 창체</a><!--창체 수업-->   
+      <p><a href = "">창체 담임 주소 넣어놨으니 여기로 들가면 됨</a><!--담임 줌 넣어놈-->  
          ;
       <h5>학교 참조 홈페이지</h5>
          <a href = "https://hyosung.riroschool.kr/">효성 리로스쿨</a><!--효성고 리로스쿨-->
