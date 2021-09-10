@@ -42,8 +42,7 @@
       <a href = "https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학2 오혜미</a><!--수학2(오혜미 쌤) 줌 수업-->
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">언어와 매체 김남곤</a><!--언어와 매체(김남곤 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09 ">5,6교시 창체</a><!--창체 수업-->   
-      <p><a href = "">창체 담임 주소 넣어놨으니 여기로 들가면 됨</a><!--담임 줌 넣어놈-->  
-         ;
+      <p>창체 담임 주소 넣어놨으니 여기로 들가면 됨<p>
       <h5>학교 참조 홈페이지</h5>
          <a href = "https://hyosung.riroschool.kr/">효성 리로스쿨</a><!--효성고 리로스쿨-->
          <a href = "http://hyosung.hs.kr/index.php">효성고 홈페이지</a><!--효성고-->
