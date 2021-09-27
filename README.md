@@ -9,9 +9,9 @@
       <a href = "https://us02web.zoom.us/j/4501224672?pwd=U0k2RW5MN0s0WXMxd2JvSWFOdkNXQT09">화학1 이경민</a><!--화학1(이경민 쌤) 줌 수업-->
       <a href = "https://us02web.zoom.us/j/6530979393?pwd=MGJwMVIrVURSbm1TT1dQK0V1bzFrUT09">진로</a><!--진로 수업-->
       <a href = "https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09 ">영어2 김기완</a><!--영어2(김기완 쌤) 줌 수업-->
-      <a href = "https://us04web.zoom.us/j/6231503832?pwd=WmJCeFA1K3Q1emloMzNoZ3MwaEVnQT09">체육탐구</a><!--체육탐구 줌 수업-->
+      <a href = "https://us05web.zoom.us/j/5391987378?pwd=aHVhdzg4R3A0TnR3b29vRHFMUnQxZz09">체육탐구</a><!--체육탐구 줌 수업-->
       <a href = "https://us04web.zoom.us/j/5212617285?pwd=SzNmMVZyN0VybG12bGwwZ3ZvbmpJUT09">언어와 매체 김남곤</a><!--언어와 매체(김남곤 쌤) 줌 수업-->
-      <p>체탐은 전에 쓰던 이종회쌤 링크 넣어놨음    
+      <p>체탐 링크 업로드 해놓음  
       <h4>화요일</h4>
       <a href = "https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학2 오혜미</a><!--수학2(오혜미 쌤) 줌 수업-->
       <a href = "https://zoom.us/j/6117180017?pwd=QTJnNUF3SytDU0RVL1hrRCtqMzVGdz09">언어와 매체 박신영</a><!--언어와 매체(박신영 쌤) 줌 수업-->
